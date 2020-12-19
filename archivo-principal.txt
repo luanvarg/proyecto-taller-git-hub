@@ -1,5 +1,6 @@
-Hola, Soy Luis Vargas y esto es Nickelodeon.
+<<<<<<< HEAD
+Hola, Soy Luis Vargas y esto es Disney Channel.
 Tan tan tan tan
 Noviembre sin ti
-Mensaje de rama master
+Mensaje de rama principal
 git es una herramienta
