@@ -1,5 +1,5 @@
-Hola, Soy Luis Vargas y esto es Disney Channel.
+Hola, Soy Luis Vargas y esto es Nickelodeon.
 Tan tan tan tan
-Diciembre sin ti
-Mensaje de rama principal
+Noviembre sin ti
+Mensaje de rama master
 git es una herramienta
